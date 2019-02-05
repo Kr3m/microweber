@@ -26,7 +26,7 @@ The core idea of the software is to let you create your own website, online shop
 
 The most important thing you need to know is that Microweber pairs the latest CMS trend – the unique Drag & Drop technology, with a revolutionary Real-Time Text Writing & Editing feature. Talking in user benefit, this pair of features means improved user experience, easier and quicker content management, visually highly appealing environment and flexibility.
 
-### [Live Demo](http://demo.microweber.org/admin?username=demo&password=demo)
+### [Microweber Live Demo](http://demo.microweber.org/?template=dream)
 
 ## Requirements <a name="requirements" />
 
