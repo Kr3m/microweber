@@ -15,7 +15,7 @@
 
 ---
 
-![Live edit](https://microweber.com/cdn/microweber_screen_1.jpg "")
+![Live edit](https://microweber.com/cdn/2019_version/1.jpg "")
 
 
 ## What is Microweber? <a name="what-is" />
